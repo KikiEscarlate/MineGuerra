@@ -1,0 +1,2 @@
+# MineGuerra
+server para amigos
